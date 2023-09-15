@@ -1,0 +1,44 @@
+2023-08-03 21:37:30,679 - INFO - Page 1 scraping started...
+2023-08-03 21:37:34,813 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:36,868 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:38,476 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:40,193 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:41,851 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:43,190 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:49,621 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:51,641 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:53,858 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:55,074 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:56,597 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:58,119 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:37:59,600 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:06,246 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:14,613 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:17,355 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:18,852 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:20,991 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:23,924 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:26,463 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:29,255 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:30,976 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:32,557 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:36,022 - ERROR - Error while scraping laptop page data: cannot concatenate object of type '<class 'dict'>'; only Series and DataFrame objs are valid
+2023-08-03 21:38:36,022 - INFO - Execution finished for page 1. Execution time: 65.34 seconds.
+2023-08-03 21:38:36,022 - INFO - Sleeping for 3 seconds...
+2023-08-03 21:38:39,037 - INFO - Finished Scraping
+2023-08-03 21:40:58,117 - INFO - Page 1 scraping started...
+2023-08-03 21:41:51,600 - INFO - Execution finished for page 1. Execution time: 53.48 seconds.
+2023-08-03 21:41:51,600 - INFO - Sleeping for 3 seconds...
+2023-08-03 21:41:54,608 - INFO - Finished Scraping
+2023-08-03 21:45:46,867 - INFO - Page 1 scraping started...
+2023-08-03 21:46:48,107 - INFO - Execution finished for page 1. Execution time: 61.24 seconds.
+2023-08-03 21:46:48,107 - INFO - Sleeping for 3 seconds...
+2023-08-03 21:46:51,120 - INFO - Finished Scraping
+2023-08-03 21:59:45,603 - INFO - Page 1 scraping started...
+2023-08-03 22:01:02,434 - INFO - Execution finished for page 1. Execution time: 76.82 seconds.
+2023-08-03 22:01:02,434 - INFO - Sleeping for 3 seconds...
+2023-08-03 22:01:05,436 - INFO - Finished Scraping
+2023-08-03 22:07:00,095 - INFO - Page 1 scraping started...
+2023-08-03 22:07:57,907 - INFO - Execution finished for page 1. Execution time: 57.81 seconds.
+2023-08-03 22:07:57,907 - INFO - Sleeping for 3 seconds...
+2023-08-03 22:08:00,910 - INFO - Finished Scraping in -60.814279899932444
